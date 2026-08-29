@@ -1,5 +1,5 @@
 BIG CRUISE Brand Identity V1.0 — Logo assets
-Master mark: the ⚡️-no, the 〽️ (Unicode U+303D Part Alternation Mark), drawn as a one-color lopsided-M stroke.
+Master mark: the 〽️ (Unicode U+303D Part Alternation Mark), drawn as a one-color lopsided-M stroke.
 
 SVG path (viewBox 0 0 64 64, stroke-width 9, round caps/joins):
 M6 36 C9 22 12 8 21 8 C27.5 8 30 20 32 28 C34 20 36.5 8 43 8 C52 8 56 24 60 54
